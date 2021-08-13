@@ -1,2 +1,1 @@
-# COO
-Computação Orientada a Objetos
+# COO - Computação Orientada a Objetos
