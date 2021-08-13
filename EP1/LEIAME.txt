@@ -1,0 +1,10 @@
+Compile usando o comando "javac NomeDoArquivo.java" nos arquivos .java da pasta src, coloque-os na mesma pasta dos outros .class do exercício programado pong_incompleto
+Execute Pong.class utilizando o comando "java Pong"
+Siga as instruções na tela para jogar
+
+
+
+Compilado e executado em:
+java 14.0.1 2020-04-14
+Java(TM) SE Runtime Environment (build 14.0.1+7)
+Java HotSpot(TM) 64-Bit Server VM (build 14.0.1+7, mixed mode, sharing)
