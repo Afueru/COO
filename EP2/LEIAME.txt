@@ -1,0 +1,21 @@
+Copie os arquivos da pasta src para a mesma pasta dos outros arquivos .class de  pong2_incompleto
+Compile os arquivos utilizando a seguinte linha de comando no terminal: javac (nomedoarquivo).java
+Para executar o programa utilize este linha de comando no terminal: 
+
+java Pong <classe_bola> <intervalo_de_tempo> <safe_mode>
+
+Onde o atributo <classe_bola> deve ser substituído pelo nome da classe bola que deseja usar, <intervalo_de_tempo> deve ser substituído por um número que representará o tempo em milissegundos que deve ser aguardade entre um frame e outro do jogo
+Então temos como exemplo a seguinte linha para executar o jogo:
+
+java Pong FxBall 5 true
+
+Para que o jogo rode da maneira como foi especificada no vídeo de demonstração, deve-se executar o programa por meio da seguinte linha de comando:
+java Pong FxBall
+
+
+
+Compilado e executado em:
+WINDOWS 10
+java version "14.0.1" 2020-04-14
+Java(TM) SE Runtime Environment (build 14.0.1+7)
+Java HotSpot(TM) 64-Bit Server VM (build 14.0.1+7, mixed mode, sharing)
